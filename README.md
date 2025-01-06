@@ -1,2 +1,2 @@
 # Decrypter 
-Decrypter written C
+Decrypter written C that uses complex algorithms to decrypt messages
